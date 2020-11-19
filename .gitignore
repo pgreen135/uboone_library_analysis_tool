@@ -1,0 +1,9 @@
+*.pdf
+*.root
+*.dat
+*.txt
+*.o
+*.png
+*.pid
+uboone_example_driver
+
